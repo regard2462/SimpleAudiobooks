@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Texte, die es nur in der Desktop-Fassung gibt; alles andere kommt aus app/src/main/res -->
+<resources>
+    <string name="d_nothing_playing">Keine Wiedergabe</string>
+    <string name="d_volume">Lautstärke</string>
+    <string name="d_show_in_folder">Im Ordner zeigen</string>
+    <string name="d_choose_folder_title">Hörbuchordner wählen</string>
+    <string name="d_choose_image">Titelbild wählen</string>
+    <string name="d_export_title">Export speichern</string>
+    <string name="d_import_title">Exportdatei öffnen</string>
+    <string name="d_already_running">Simple Audiobooks läuft bereits.</string>
+    <string name="d_about_licenses">Verwendet Compose Multiplatform und Skiko (Apache 2.0), Skia (BSD 3-Clause), Kotlin und kotlinx (Apache 2.0), JavaCV und JavaCPP (Apache 2.0) sowie FFmpeg 7.1 (LGPL 2.1 oder später).</string>
+    <string name="d_shortcuts">Tastenkürzel</string>
+    <string name="d_sc_play">Wiedergabe und Pause</string>
+    <string name="d_sc_skip">Zurück- und Vorspulen</string>
+    <string name="d_sc_chapter">Voriges und nächstes Kapitel</string>
+    <string name="d_sc_search">In der Bibliothek suchen</string>
+    <string name="d_sc_bookmark">Lesezeichen setzen</string>
+    <string name="d_sc_close">Buchdetails schließen</string>
+    <string name="d_key_space">Leertaste</string>
+    <string name="d_key_arrows">← →</string>
+    <string name="d_key_shift_arrows">Umschalt + ← →</string>
+    <string name="d_play_chapter">Ab diesem Kapitel abspielen</string>
+    <string name="d_delete_bookmark">Lesezeichen löschen</string>
+    <string name="d_cover_from_file">Titelbild aus einer Datei</string>
+    <string name="d_sleep_left">noch %1$s</string>
+    <string name="d_rescan_short">Neu einlesen</string>
+    <string name="d_listened">Gehört</string>
+    <string name="d_now_playing_book">Laufendes Buch öffnen</string>
+    <string name="d_folders_none">Noch keine Ordner.</string>
+    <string name="d_files_in_folder">Dateien dieses Buches</string>
+    <!-- Android-Texte, die am Rechner anders lauten -->
+    <string name="no_bookmarks">Noch keine Lesezeichen. Beim Hören setzt der Lesezeichenknopf in der Wiedergabeleiste eines an der aktuellen Stelle.</string>
+    <string name="remove_book_text">„%1$s“ verschwindet aus der Bibliothek. Die Dateien bleiben auf dem Rechner, in den Einstellungen lässt sich das Buch wiederherstellen.</string>
+    <string name="remove_book_text_delete">„%1$s“ kommt mitsamt seinen Dateien in den Papierkorb. Wo das System keinen Papierkorb hat, werden die Dateien endgültig gelöscht.</string>
+    <string name="remove_book_delete_files">Dateien auch in den Papierkorb verschieben</string>
+</resources>

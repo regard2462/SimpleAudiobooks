@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Texte, die es nur in der Desktop-Fassung gibt; alles andere kommt aus app/src/main/res -->
+<resources>
+    <string name="d_nothing_playing">Nothing playing</string>
+    <string name="d_volume">Volume</string>
+    <string name="d_show_in_folder">Show in folder</string>
+    <string name="d_choose_folder_title">Choose your audiobook folder</string>
+    <string name="d_choose_image">Choose a cover image</string>
+    <string name="d_export_title">Save export</string>
+    <string name="d_import_title">Open export file</string>
+    <string name="d_already_running">Simple Audiobooks is already running.</string>
+    <string name="d_about_licenses">Uses Compose Multiplatform and Skiko (Apache 2.0), Skia (BSD 3-Clause), Kotlin and kotlinx (Apache 2.0), JavaCV and JavaCPP (Apache 2.0) and FFmpeg 7.1 (LGPL 2.1 or later).</string>
+    <string name="d_shortcuts">Keyboard shortcuts</string>
+    <string name="d_sc_play">Play or pause</string>
+    <string name="d_sc_skip">Rewind and fast forward</string>
+    <string name="d_sc_chapter">Previous and next chapter</string>
+    <string name="d_sc_search">Search the library</string>
+    <string name="d_sc_bookmark">Set a bookmark</string>
+    <string name="d_sc_close">Close book details</string>
+    <string name="d_key_space">Space</string>
+    <string name="d_key_arrows">← →</string>
+    <string name="d_key_shift_arrows">Shift + ← →</string>
+    <string name="d_play_chapter">Play from this chapter</string>
+    <string name="d_delete_bookmark">Delete bookmark</string>
+    <string name="d_cover_from_file">Cover from a file</string>
+    <string name="d_sleep_left">%1$s left</string>
+    <string name="d_rescan_short">Rescan</string>
+    <string name="d_listened">Listened</string>
+    <string name="d_now_playing_book">Open the book that is playing</string>
+    <string name="d_folders_none">No folders yet.</string>
+    <string name="d_files_in_folder">Files of this book</string>
+    <!-- Android-Texte, die am Rechner anders lauten -->
+    <string name="no_bookmarks">No bookmarks yet. While listening, the bookmark button in the player bar marks the current position.</string>
+    <string name="remove_book_text">“%1$s” disappears from the library. The files stay on the computer, and you can restore the book in Settings.</string>
+    <string name="remove_book_text_delete">“%1$s” will be moved to the trash together with its files. Where the system has no trash, the files are deleted permanently.</string>
+    <string name="remove_book_delete_files">Also move the files to the trash</string>
+</resources>

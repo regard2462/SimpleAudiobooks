@@ -6,8 +6,6 @@ Opus- und FLAC-Dateien und kommt ohne Konto und Werbung aus. Die App gibt es auf
 
 [English version](README.md)
 
-<p><a href="https://buymeacoffee.com/regard2462"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy me a coffee"></a></p>
-
 <p>
 <img src="docs/screenshots/desktop/de-bibliothek.jpg" width="820" alt="Desktop: Bibliothek mit Detailbereich und Wiedergabeleiste">
 </p>

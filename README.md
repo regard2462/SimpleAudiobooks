@@ -6,6 +6,8 @@ and FLAC files and needs no account and no ads. The app is available in English 
 
 [Deutsche Fassung](README.de.md)
 
+<p><a href="https://buymeacoffee.com/regard2462"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy me a coffee"></a></p>
+
 <p>
 <img src="docs/screenshots/desktop/en-library.jpg" width="820" alt="Desktop: library with details panel and player bar">
 </p>
